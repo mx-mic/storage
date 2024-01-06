@@ -1,0 +1,14 @@
+.light-theme #nav-home:hover, .light-theme #nav-inventory:hover, .dark-theme #nav-home:hover, .dark-theme #nav-inventory:hover
+    {
+        color: #02b757;
+    }
+    
+    .light-theme #nav-profile:hover, .light-theme #nav-character:hover, .dark-theme #nav-profile:hover, .dark-theme #nav-character:hover
+    {
+        color: #f68802;
+    }
+    
+    .light-theme #nav-message:hover, .light-theme #nav-friends:hover, .light-theme #nav-money:hover, .light-theme #nav-trade:hover, .light-theme #nav-group:hover, .light-theme #nav-my-feed:hover, .light-theme #nav-forum:hover, .light-theme #nav-blog:hover, .light-theme #nav-shop:hover, .light-theme #nav-premium:hover, .light-theme #nav-Transactions:hover, .light-theme #nav-Redeem:hover, .dark-theme #nav-message:hover, .dark-theme #nav-friends:hover, .dark-theme #nav-money:hover, .dark-theme #nav-trade:hover, .dark-theme #nav-group:hover, .dark-theme #nav-my-feed:hover, .dark-theme #nav-forum:hover, .dark-theme #nav-blog:hover, .dark-theme #nav-shop:hover, .dark-theme #nav-premium:hover, .dark-theme #nav-Transactions:hover, .dark-theme #nav-Redeem:hover
+    {
+        color: #00a2ff;
+    }
